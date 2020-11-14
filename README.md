@@ -5,6 +5,7 @@
 
 ## Demos
 > Note: Requires .NET 5 and Visual Studio 2019 v16.8 to run
+
 [BlazorComponents.Shared](/src/BlazorComponents.Shared)  
 Razor Class library that has the Counter razor component.
 
